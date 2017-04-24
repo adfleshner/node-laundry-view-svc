@@ -7,14 +7,14 @@ var app = express();
 
 var roomCache = {},
     campusConfigs = {
-      216: {
-        id:'pcv',
-        name:'Peter Cooper Village'
-      },
-      219: {
-        id:'st',
-        name:'Stuyvesant Town'
-      }
+      // 216: {
+      //   id:'pcv',
+      //   name:'Peter Cooper Village'
+      // },
+      // 219: {
+      //   id:'st',
+      //   name:'Stuyvesant Town'
+      // }
     };
 
 function setUpRoutes() {
