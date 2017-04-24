@@ -16,7 +16,7 @@ var roomCache = {},
       //   name:'Stuyvesant Town'
       // }
       27:{
-        id:'uoa'
+        id:'ua',
         name:'University of Alabama'
       }
     };
