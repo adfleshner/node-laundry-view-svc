@@ -8,7 +8,7 @@ var app = express();
 var roomCache = {},
     campusConfigs = {
       //Load the university of Alabama
-      27 : {
+      28: {
         id:'ua',
         name:'The University of Alabama'
       }
