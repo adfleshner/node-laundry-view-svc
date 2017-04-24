@@ -1,3 +1,5 @@
+This is a fork of Nixta's wonderful library [node-laundry-view-svc](https://github.com/nixta/node-laundry-view-svc). Altered a bit to work this the university of Alabama's Laundry View Syste. I take no credit in writing any of this all I did was find where he was loading his campus and change it to the one I wanted. The code works awesome. https://ua-laundry.herokuapp.com/
+
 node-laundry-view-svc
 =====================
 
