@@ -15,6 +15,10 @@ var roomCache = {},
       //   id:'st',
       //   name:'Stuyvesant Town'
       // }
+      27:{
+        id:'ua'
+        name:'University of Alabama'
+      }
     };
 
 function setUpRoutes() {
