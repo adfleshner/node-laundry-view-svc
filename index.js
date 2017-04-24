@@ -10,7 +10,7 @@ var roomCache = {},
       //Load the university of Alabama
       27:{
         id:'ua',
-        name:'University of Alabama'
+        name:'The University of Alabama'
       }
     };
 
